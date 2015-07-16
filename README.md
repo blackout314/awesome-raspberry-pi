@@ -22,3 +22,7 @@ curated list of projects with raspberry pi
 ## security
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
  * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
+ 
+## robotic
+ * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
+ 
