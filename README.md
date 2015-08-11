@@ -9,6 +9,7 @@ curated list of projects with raspberry pi
 
 ## automation
  * [Control remote plugs with the Raspberry Pi, features a webinterface. Uses RCSwitch and wiringPi](https://github.com/xkonni/raspberry-remote)
+ * [irrighino automatic plant feed](https://github.com/lucadentella/irrighino) | [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
 
 ## computer stuffs
  * [Thermal Printer](https://github.com/thefloe1/Raspi-Thermal-Printer) | [site](http://pikiosk.tumblr.com/post/38866317521/printing-with-raspberry)
