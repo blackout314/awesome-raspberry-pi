@@ -26,6 +26,9 @@ curated list of projects with raspberry pi
  * [Home Automation with NodeJS](https://github.com/anders94/raspberry-pi-home-automation)
  * [YANA server](https://github.com/ldleman/yana-server) | [site](https://hackaday.io/project/465-raspbox-home-automation-cloud)
 
+## energy
+ * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
+
 ## examples
  * [Raspberry Pi code by Simon Monk for the book Programming Raspberry Pi: Getting Started with Python](https://github.com/simonmonk/monk_raspberrypi)
  * [The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk](https://github.com/simonmonk/raspberrypi_cookbook)
@@ -39,6 +42,3 @@ curated list of projects with raspberry pi
 ## robotic
  * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
  
-## energy
- * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
-
