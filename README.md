@@ -39,3 +39,6 @@ curated list of projects with raspberry pi
 ## robotic
  * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
  
+## energy
+ * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
+
