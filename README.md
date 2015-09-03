@@ -26,6 +26,7 @@ curated list of projects with raspberry pi
  * [Home Automation with NodeJS](https://github.com/anders94/raspberry-pi-home-automation)
  * [YANA server](https://github.com/ldleman/yana-server) | [site](https://hackaday.io/project/465-raspbox-home-automation-cloud)
  * [Raspberry Weather Station](http://hukuzatuna.ddns.net/raspberry_pi/2015/08/22/weatherpi.html)
+ * [Temperature and Humidity Logger](https://github.com/guibom/ESPTempLogger) #__arduino__ 
 
 ## energy
  * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
