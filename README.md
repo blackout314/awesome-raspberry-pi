@@ -42,5 +42,6 @@ curated list of projects with raspberry pi
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  
 ## robotic
+ * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
  * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
  
