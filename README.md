@@ -13,6 +13,8 @@ curated list of projects with raspberry pi
  * [macro buttons box for smart home](http://www.instructables.com/id/Macro-Button-Box-for-the-Smart-Home/?ALLSTEPS)
 
 ## computer stuffs
+ * [Raspberru Pi Cluster](https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/)
+ * [Raspberry Pi Hole AD Blocker](http://jacobsalmela.com/block-millions-ads-network-wide-with-a-raspberry-pi-hole-2-0/#blockmalware)
  * [Raspberry Pi Laptop](http://www.parapraxisproduction.comuf.com/pitop.html)
  * [Raspberry Pi Lights Camera Action and Off Site Storage](http://www.codeproject.com/Articles/1016715/Raspberry-PI-Lights-Camera-Action-and-Off-site-Sto)
  * [RDP Client](https://github.com/Gibbio/RDPGUI)
