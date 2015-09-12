@@ -17,6 +17,7 @@ curated list of projects with raspberry pi
  * [Raspberry Pi Hole AD Blocker](http://jacobsalmela.com/block-millions-ads-network-wide-with-a-raspberry-pi-hole-2-0/#blockmalware)
  * [Raspberry Pi Laptop](http://www.parapraxisproduction.comuf.com/pitop.html)
  * [Raspberry Pi Lights Camera Action and Off Site Storage](http://www.codeproject.com/Articles/1016715/Raspberry-PI-Lights-Camera-Action-and-Off-site-Sto)
+ * [Raspberry Pi Torrent](http://www.instructables.com/id/DIY-Raspberry-Pi-Torrent-Server/)
  * [RDP Client](https://github.com/Gibbio/RDPGUI)
  * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) | [webui](https://github.com/koniu/recoll-webui)
  * [Thermal Printer](https://github.com/thefloe1/Raspi-Thermal-Printer) | [site](http://pikiosk.tumblr.com/post/38866317521/printing-with-raspberry)
