@@ -14,6 +14,7 @@ curated list of projects with raspberry pi
  * [Thermal Printer](https://github.com/thefloe1/Raspi-Thermal-Printer) | [site](http://pikiosk.tumblr.com/post/38866317521/printing-with-raspberry)
  * [Thermal Printer Python](https://github.com/luopio/py-thermal-printer) | [site](https://smittytone.wordpress.com/2013/09/23/hacking-a-thermal-till-printer-to-work-with-the-raspberry-pi/)
  * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) | [webui](https://github.com/koniu/recoll-webui)
+ * [SMS Proxy Server](https://www.howtoforge.com/tutorial/how-to-install-raspberry-pi-sms-server/)
 
 ## domotic
  * [A Raspberry Pi-powered smart thermostat written in Python and PHP](https://github.com/Willseph/RaspberryPiThermostat)
