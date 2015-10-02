@@ -12,6 +12,9 @@ curated list of projects with raspberry pi
  * [Irrighino automatic plant feed](https://github.com/lucadentella/irrighino) | [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
  * [macro buttons box for smart home](http://www.instructables.com/id/Macro-Button-Box-for-the-Smart-Home/?ALLSTEPS)
 
+## home stuffs
+ * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
+
 ## computer stuffs
  * [Raspberru Pi Cluster](https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/)
  * [Raspberry Pi Hole AD Blocker](http://jacobsalmela.com/block-millions-ads-network-wide-with-a-raspberry-pi-hole-2-0/#blockmalware)
