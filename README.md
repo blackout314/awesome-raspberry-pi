@@ -57,3 +57,7 @@ curated list of projects with raspberry pi
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
  * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
  
+## resources
+where to discover new articles, tools, libraries etc related to raspberry pi
+* [Pi Weekly](http://piweekly.net/)
+* [RasPi Weekly](http://www.raspiweekly.com/)
