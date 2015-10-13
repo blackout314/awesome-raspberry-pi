@@ -1,5 +1,6 @@
 # awesome-raspberry-pi
-curated list of projects with raspberry pi
+
+curated list of projects with raspberry pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-github)
 
 ## 3d print
  * [print server](http://www.woodsy.co/2015/07/octoprint-raspberry-pi-3d-printer-server/)
