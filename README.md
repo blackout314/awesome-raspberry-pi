@@ -1,6 +1,6 @@
 # awesome-raspberry-pi
 
-curated list of projects with raspberry pi 
+curated list of projects with raspberry pi on whole wwww 
 
 ## 3d print
  * [print server](http://www.woodsy.co/2015/07/octoprint-raspberry-pi-3d-printer-server/)
