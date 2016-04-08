@@ -54,6 +54,7 @@ curated list of projects with raspberry pi on whole wwww
  * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
+ * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
  
 ## robotic
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
