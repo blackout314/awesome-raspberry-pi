@@ -42,6 +42,9 @@ curated list of projects with raspberry pi on whole wwww
  * [Raspberry 2 Weather Station](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-weather-station-raspberry-pi/)
  * [Temperature and Humidity Logger](https://github.com/guibom/ESPTempLogger) #__arduino__ 
 
+## electronic 
+ * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
+
 ## energy
  * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
 
