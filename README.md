@@ -17,6 +17,7 @@ curated list of projects with raspberry pi on whole www
 - [robotic](#robotic)
 - [resources](#resources)
 - [user groups](#user-groups)
+- [wearable](#wearable)
 
 ## 3d print
  * [print server](http://www.woodsy.co/2015/07/octoprint-raspberry-pi-3d-printer-server/)
@@ -110,3 +111,6 @@ where to discover new articles, tools, libraries etc related to raspberry pi
 
 ## user groups
  * [Swiss Raspberry Pi Users Club](http://swissraspberry.ch/)
+
+## wearable
+ * [Raspberry Pi Timelapse Camera](https://github.com/Manoj-nathwani/raspberry-pi-timelapse-camera)
