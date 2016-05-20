@@ -26,6 +26,7 @@ curated list of projects with raspberry pi on whole www
  * [Control your raspberry pi from your android phone](https://github.com/LorenzoRogai/RaspberryRemoteControl)
 
 ## automation
+ * [CarCam Rpi3](https://github.com/vijay2552007/CarCam)
  * [Control remote plugs with the Raspberry Pi, features a webinterface. Uses RCSwitch and wiringPi](https://github.com/xkonni/raspberry-remote)
  * [Irrighino automatic plant feed](https://github.com/lucadentella/irrighino) | [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
  * [macro buttons box for smart home](http://www.instructables.com/id/Macro-Button-Box-for-the-Smart-Home/?ALLSTEPS)
