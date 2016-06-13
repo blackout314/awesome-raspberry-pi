@@ -15,6 +15,7 @@ curated list of projects with raspberry pi on whole www
 - [examples](#examples)
 - [security](#security)
 - [robotic](#robotic)
+- [utils](#utils)
 - [resources](#resources)
 - [user groups](#user-groups)
 - [wearable](#wearable)
@@ -106,6 +107,9 @@ curated list of projects with raspberry pi on whole www
 ## robotic
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
  * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
+
+## utils
+ * WhereIsMyPy - tool for discovery RaspPi in your lan - [Shell](https://github.com/blackout314/WhereIsMyPI) - [Go](https://github.com/dlion/WhereIsMyPi) - [Javascript](https://github.com/roccomuso/WhereIsMyPi) - [C](https://github.com/fabiorico/WhereIsMyPI) - [Python](https://github.com/Zumium/whereismypi) - [Java](https://github.com/nmaas87/whereismypi)
 
 ## resources
 where to discover new articles, tools, libraries etc related to raspberry pi
