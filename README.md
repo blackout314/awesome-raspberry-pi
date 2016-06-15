@@ -1,5 +1,7 @@
 # awesome-raspberry-pi
 
+![logo](http://cdn.makeuseof.com/wp-content/uploads/2012/02/raspberry_pi_logo.png?6f25c7)
+
 curated list of projects with raspberry pi on whole www
 
 **Table Of Contents**
@@ -122,3 +124,7 @@ where to discover new articles, tools, libraries etc related to raspberry pi
 
 ## wearable
  * [Raspberry Pi Timelapse Camera](https://github.com/Manoj-nathwani/raspberry-pi-timelapse-camera)
+
+# Books:
+1. [Raspberry Pi User Guide](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118921666.html) by the creator Eben Upton
+2. [Adventures in Raspberry Pi](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1119046025.html) by Carrie Anne Philbin
