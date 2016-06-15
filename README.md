@@ -30,6 +30,7 @@ curated list of projects with raspberry pi on whole www
  * [CarCam Rpi3](https://github.com/vijay2552007/CarCam)
  * [Control remote plugs with the Raspberry Pi, features a webinterface. Uses RCSwitch and wiringPi](https://github.com/xkonni/raspberry-remote)
  * [Facebook Chatbot](https://github.com/HackerHouseYT/Facebook-Newsbot) [video](https://www.youtube.com/watch?v=NUSs_2asZ1M)
+ * [In Your Fridge](https://gist.github.com/mmoyer2655/fdbf1aebe1db516f8c5893ae0cdbed8b) Family Hub Open Source Clone [video](https://www.youtube.com/watch?v=u3Jkv3xl8W4)
  * [Irrighino automatic plant feed](https://github.com/lucadentella/irrighino) | [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
  * [macro buttons box for smart home](http://www.instructables.com/id/Macro-Button-Box-for-the-Smart-Home/?ALLSTEPS)
  * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
