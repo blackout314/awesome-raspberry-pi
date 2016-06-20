@@ -29,6 +29,7 @@ curated list of projects with raspberry pi on whole www
  * [Control your raspberry pi from your android phone](https://github.com/LorenzoRogai/RaspberryRemoteControl)
 
 ## automation
+ * [AI home](https://github.com/the-raspberry-pi-guy/Artificial-Intelligence-Pi) | [video](https://www.youtube.com/watch?v=tcI8ibjUOzg)
  * [CarCam Rpi3](https://github.com/vijay2552007/CarCam)
  * [Control remote plugs with the Raspberry Pi, features a webinterface. Uses RCSwitch and wiringPi](https://github.com/xkonni/raspberry-remote)
  * [Facebook Chatbot](https://github.com/HackerHouseYT/Facebook-Newsbot) [video](https://www.youtube.com/watch?v=NUSs_2asZ1M)
@@ -65,7 +66,7 @@ curated list of projects with raspberry pi on whole www
 
 
 ## computer stuffs
- * [Raspberry Auto Flickr Uploader](https://github.com/drcursor/flickrup) [article](http://lifehacker.com/build-your-own-flickr-automatic-uploader-with-a-raspber-1781891730)
+ * [Raspberry Auto Flickr Uploader](https://github.com/drcursor/flickrup) | [article](http://lifehacker.com/build-your-own-flickr-automatic-uploader-with-a-raspber-1781891730)
  * [Raspberry Pi Cluster](https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/)
  * [Raspberry Pi Hole AD Blocker](http://jacobsalmela.com/block-millions-ads-network-wide-with-a-raspberry-pi-hole-2-0/#blockmalware)
  * [Raspberry Pi Laptop](http://www.parapraxisproduction.comuf.com/pitop.html)
