@@ -109,6 +109,7 @@ curated list of projects with raspberry pi on whole www
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
+ * [PiHole](https://github.com/pi-hole/pi-hole) Block AD server [Web Admin Panel](https://github.com/pi-hole/AdminLTE)
 
 ## robotic
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
