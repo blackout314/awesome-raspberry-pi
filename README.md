@@ -106,6 +106,7 @@ curated list of projects with raspberry pi on whole www
 ## security
  * [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
  * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
+ * [PasswordStore](https://github.com/girst/hardpass) | [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
