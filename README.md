@@ -90,6 +90,7 @@ curated list of projects with raspberry pi on whole www
  * [Raspberry Weather Station](http://hukuzatuna.ddns.net/raspberry_pi/2015/08/22/weatherpi.html)
  * [Raspberry 2 Weather Station](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-weather-station-raspberry-pi/)
  * [Temperature and Humidity Logger](https://github.com/guibom/ESPTempLogger) #__arduino__
+ * [Solar Powered Weather Station](https://github.com/masneyb/weather-station)
 
 ## electronic
  * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
