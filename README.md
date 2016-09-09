@@ -119,6 +119,7 @@ curated list of projects with raspberry pi on whole www
 
 ## utils
  * WhereIsMyPy - tool for discovery RaspPi in your lan - [Shell](https://github.com/blackout314/WhereIsMyPI) - [Go](https://github.com/dlion/WhereIsMyPi) - [Javascript](https://github.com/roccomuso/WhereIsMyPi) - [C](https://github.com/fabiorico/WhereIsMyPI) - [Python](https://github.com/Zumium/whereismypi) - [Java](https://github.com/nmaas87/whereismypi)
+ * [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 
 ## resources
 where to discover new articles, tools, libraries etc related to raspberry pi
