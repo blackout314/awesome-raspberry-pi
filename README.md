@@ -95,8 +95,9 @@ curated list of projects with raspberry pi on whole www
  * [Solar Powered Weather Station](https://github.com/masneyb/weather-station)
 
 ## electronic
- * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
+ * [FMberry](https://github.com/Manawyrm/FMBerry)
  * [LoRasPi](https://github.com/hallard/LoRasPI) Raspberry PI Lora Gateway/Node for HopeRF RFM95 RFM96 RFM98 Modules
+ * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
  * [PIfm](https://github.com/rm-hull/pifm) Turn your Raspberry Pi to Radio | [GUI](https://github.com/lucky-sideburn/piratepiwave)
 
 ## energy
