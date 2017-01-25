@@ -87,6 +87,7 @@ curated list of projects with raspberry pi on whole www
  * [Damp Pi shower room moisture extraction with Raspberry pi](http://www.davidhunt.ie/damp-pi-shower-room-moisture-extraction-with-raspberry-pi/)
  * [DIY Philips HUE](http://souliss.github.io/media/diy-your-philips-hue-led-bulb/) #__arduino__
  * [Home Automation with NodeJS](https://github.com/anders94/raspberry-pi-home-automation)
+ * [Mycroft AI](https://github.com/MycroftAI/enclosure-picroft) text to speech AI
  * [YANA server](https://github.com/ldleman/yana-server) | [site](https://hackaday.io/project/465-raspbox-home-automation-cloud)
  * [Raspberry Weather Station](http://hukuzatuna.ddns.net/raspberry_pi/2015/08/22/weatherpi.html)
  * [Raspberry 2 Weather Station](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-weather-station-raspberry-pi/)
