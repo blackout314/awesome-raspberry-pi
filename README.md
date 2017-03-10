@@ -23,6 +23,7 @@ curated list of projects with raspberry pi on whole www
 - [wearable](#wearable)
 
 ## 3d print
+ * [dongle pi](https://github.com/N-O-D-E/Dongle) [video](https://www.youtube.com/watch?v=5wva14j74LQ)
  * [print server](http://www.woodsy.co/2015/07/octoprint-raspberry-pi-3d-printer-server/)
 
 ## android
