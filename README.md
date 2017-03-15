@@ -113,6 +113,7 @@ curated list of projects with raspberry pi on whole www
  * [The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk](https://github.com/simonmonk/raspberrypi_cookbook)
 
 ## security
+ * [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
  * [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
  * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
  * [PasswordStore](https://github.com/girst/hardpass) | [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
