@@ -94,6 +94,7 @@ curated list of projects with raspberry pi on whole www
  * [Raspberry 2 Weather Station](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-weather-station-raspberry-pi/)
  * [rpiscale](https://github.com/iomihai/rpiscale) - Raspberry Pi connected Wii Balance Board sends weight to Google Docs spreadsheet
  * [Temperature and Humidity Logger](https://github.com/guibom/ESPTempLogger) #__arduino__
+ * [Timelapse-Zero](https://github.com/bschwind/timelapse-zero) - Timelapse with RaspPi Zero 
  * [Solar Powered Weather Station](https://github.com/masneyb/weather-station)
 
 ## electronic
