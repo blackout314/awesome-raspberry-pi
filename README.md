@@ -116,6 +116,7 @@ curated list of projects with raspberry pi on whole www
  * [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
  * [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
  * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
+ * [P4wnP1](https://github.com/mame82/P4wnP1) P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
  * [PasswordStore](https://github.com/girst/hardpass) | [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
@@ -131,6 +132,7 @@ curated list of projects with raspberry pi on whole www
  * [PaPiRus](https://github.com/PiSupply/PaPiRus) - ebook reader with raspberry pi
  * [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
  * [PiProcess Dashboard](https://github.com/initialstate/pi-process-dashboard) -  How to remotely monitor your Raspberry Pi processes
+ * [WiringPi](https://github.com/WiringPi/WiringPi)
 
 ## resources
 where to discover new articles, tools, libraries etc related to raspberry pi
