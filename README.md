@@ -40,8 +40,9 @@ curated list of projects with raspberry pi on whole www
  * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
  * [FHEM - home automation](http://fhem.de/fhem.html)
 
-## home stuffs
+## home stuff
  * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
+ * [Lumos - Smart Lamp for Better Sleep](https://github.com/jonathanrjpereira/Lumos)
 
 ## clusters
  * **Beowulf**
