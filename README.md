@@ -120,6 +120,7 @@ curated list of projects with raspberry pi on whole www
  * [P4wnP1](https://github.com/mame82/P4wnP1) P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
  * [PasswordStore](https://github.com/girst/hardpass) | [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
+ * [Security Cam with OpenCV](https://github.com/HackerHouseYT/Smart-Security-Camera) | [video](https://www.youtube.com/watch?v=Y2QFu-tTvTI)
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
  * [PiHole](https://github.com/pi-hole/pi-hole) Block AD server [Web Admin Panel](https://github.com/pi-hole/AdminLTE)
