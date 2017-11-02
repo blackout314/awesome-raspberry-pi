@@ -119,6 +119,8 @@ curated list of projects with raspberry pi on whole www
  * [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
  * [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
  * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
+ * [Raspberry PI-TIMOLO: PI-TImelapse, MOtion, LOwLight](https://github.com/pageauc/pi-timolo)
+ * [PI-TIMOLO Detector](https://github.com/af001/pi-detector)
  * [P4wnP1](https://github.com/mame82/P4wnP1) P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
  * [PasswordStore](https://github.com/girst/hardpass) | [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
  * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
