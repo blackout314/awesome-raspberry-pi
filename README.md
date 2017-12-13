@@ -128,6 +128,7 @@ curated list of projects with raspberry pi on whole www
  * [Security Cam with OpenCV](https://github.com/HackerHouseYT/Smart-Security-Camera) | [video](https://www.youtube.com/watch?v=Y2QFu-tTvTI)
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
+ * [SecPi](https://github.com/SecPi/SecPi) Home Alarm System
  * [PiHole](https://github.com/pi-hole/pi-hole) Block AD server [Web Admin Panel](https://github.com/pi-hole/AdminLTE)
 
 ## robotic
