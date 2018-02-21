@@ -5,6 +5,7 @@
 curated list of projects with raspberry pi on whole www
 
 **Table Of Contents**
+- [cryptos](#cryptos)
 - [3d print](#3d-print)
 - [android](#android)
 - [automation](#automation)
@@ -21,6 +22,9 @@ curated list of projects with raspberry pi on whole www
 - [resources](#resources)
 - [user groups](#user-groups)
 - [wearable](#wearable)
+
+## cryptos
+ * [Minera](https://github.com/getminera/minera)
 
 ## 3d print
  * [dongle pi](https://github.com/N-O-D-E/Dongle) [video](https://www.youtube.com/watch?v=5wva14j74LQ)
