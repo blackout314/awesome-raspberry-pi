@@ -41,6 +41,8 @@ curated list of projects with raspberry pi on whole www
  * [Noodle Bot](http://www.instructables.com/id/Noodle-a-crowdsourced-robot/)
  * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
  * [FHEM - home automation](http://fhem.de/fhem.html)
+ * [Pi Pool Managment](https://github.com/rjsears/Pool_Fill_Control/)
+ * [Pi Power](https://github.com/penguintutor/pi-power)
 
 ## home stuff
  * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
