@@ -79,6 +79,7 @@ curated list of projects with raspberry pi on whole www
 ## computer stuffs
  * [Raspberry Auto Flickr Uploader](https://github.com/drcursor/flickrup) | [article](http://lifehacker.com/build-your-own-flickr-automatic-uploader-with-a-raspber-1781891730)
  * [RaspChat](https://github.com/maxpert/raspchat) RaspChat Server
+ * [Raspberry Panalyzer](https://github.com/richardghirst/Panalyzer) This is a Logic Analyzer that runs on the RaspberryPi
  * [Raspberry Pi Cluster](https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/)
  * [Raspberry Pi Hole AD Blocker](http://jacobsalmela.com/block-millions-ads-network-wide-with-a-raspberry-pi-hole-2-0/#blockmalware)
  * [Raspberry Pi Laptop](http://www.parapraxisproduction.comuf.com/pitop.html)
