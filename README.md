@@ -22,6 +22,7 @@ curated list of projects with raspberry pi on whole www
 - [resources](#resources)
 - [user groups](#user-groups)
 - [wearable](#wearable)
+- [REPLACEMENT](#replacement)
 
 ## cryptos
  * [Minera](https://github.com/getminera/minera)
@@ -160,6 +161,9 @@ where to discover new articles, tools, libraries etc related to raspberry pi
 
 ## wearable
  * [Raspberry Pi Timelapse Camera](https://github.com/Manoj-nathwani/raspberry-pi-timelapse-camera)
+ 
+## replacement
+ * [SeaFile for RPI](https://github.com/haiwen/seafile-rpi)
 
 # Books:
 1. [Raspberry Pi User Guide](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118921666.html) by the creator Eben Upton
