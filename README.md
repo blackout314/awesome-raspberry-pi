@@ -96,6 +96,7 @@ curated list of projects with raspberry pi on whole www
  * [Wordpress Backup Server](http://wpress.io/building-own-backup-server-with-raspberry-pi/)
 
 ## domotic
+ * [A RPI appliance Monitor with Python](https://github.com/Shmoopty/rpi-appliance-monitor)
  * [A Raspberry Pi-powered smart thermostat written in Python and PHP](https://github.com/Willseph/RaspberryPiThermostat)
  * [Damp Pi shower room moisture extraction with Raspberry pi](http://www.davidhunt.ie/damp-pi-shower-room-moisture-extraction-with-raspberry-pi/)
  * [DIY Philips HUE](http://souliss.github.io/media/diy-your-philips-hue-led-bulb/) #__arduino__
