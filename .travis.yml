@@ -9,6 +9,9 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - COMMIT_AUTHOR_EMAIL: me@carlodenaro.com
 sudo: false
+cache: bundler
+notifications:
+  email: false
 before_install:
 - openssl aes-256-cbc -K $encrypted_f46ff340618d_key -iv $encrypted_f46ff340618d_iv
   -in deploy_key.enc -out deploy_key -d
