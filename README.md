@@ -36,12 +36,12 @@ Curated list of projects with raspberry pi on whole www
  * [Control your raspberry pi from your android phone](https://github.com/LorenzoRogai/RaspberryRemoteControl)
 
 ## automation
- * [AI home](https://github.com/the-raspberry-pi-guy/Artificial-Intelligence-Pi) | [video](https://www.youtube.com/watch?v=tcI8ibjUOzg)
+ * [AI home](https://github.com/the-raspberry-pi-guy/Artificial-Intelligence-Pi) - [video](https://www.youtube.com/watch?v=tcI8ibjUOzg)
  * [CarCam Rpi3](https://github.com/vijay2552007/CarCam)
  * [Control remote plugs with the Raspberry Pi, features a webinterface. Uses RCSwitch and wiringPi](https://github.com/xkonni/raspberry-remote)
  * [Facebook Chatbot](https://github.com/HackerHouseYT/Facebook-Newsbot) [video](https://www.youtube.com/watch?v=NUSs_2asZ1M)
  * [In Your Fridge](https://gist.github.com/mmoyer2655/fdbf1aebe1db516f8c5893ae0cdbed8b) Family Hub Open Source Clone [video](https://www.youtube.com/watch?v=u3Jkv3xl8W4)
- * [Irrighino automatic plant feed](https://github.com/lucadentella/irrighino) | [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
+ * [Irrighino automatic plant feed](https://github.com/lucadentella/irrighino) - [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
  * [macro buttons box for smart home](http://www.instructables.com/id/Macro-Button-Box-for-the-Smart-Home/?ALLSTEPS)
  * [Noodle Bot](http://www.instructables.com/id/Noodle-a-crowdsourced-robot/)
  * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
@@ -78,7 +78,7 @@ Curated list of projects with raspberry pi on whole www
 
 
 ## computer stuffs
- * [Raspberry Auto Flickr Uploader](https://github.com/drcursor/flickrup) | [article](http://lifehacker.com/build-your-own-flickr-automatic-uploader-with-a-raspber-1781891730)
+ * [Raspberry Auto Flickr Uploader](https://github.com/drcursor/flickrup) - [article](http://lifehacker.com/build-your-own-flickr-automatic-uploader-with-a-raspber-1781891730)
  * [RaspChat](https://github.com/maxpert/raspchat) RaspChat Server
  * [Raspberry Panalyzer](https://github.com/richardghirst/Panalyzer) This is a Logic Analyzer that runs on the RaspberryPi
  * [Raspberry Pi Cluster](https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/)
@@ -88,10 +88,10 @@ Curated list of projects with raspberry pi on whole www
  * [Raspberry Pi Torrent](http://www.instructables.com/id/DIY-Raspberry-Pi-Torrent-Server/)
  * [Raspberry Pi Portable Camera](http://opensource.com/life/15/9/turning-raspberry-pi-portable-streaming-camera)
  * [RDP Client](https://github.com/Gibbio/RDPGUI)
- * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) | [webui](https://github.com/koniu/recoll-webui)
- * [Thermal Printer](https://github.com/thefloe1/Raspi-Thermal-Printer) | [site](http://pikiosk.tumblr.com/post/38866317521/printing-with-raspberry)
- * [Thermal Printer Python](https://github.com/luopio/py-thermal-printer) | [site](https://smittytone.wordpress.com/2013/09/23/hacking-a-thermal-till-printer-to-work-with-the-raspberry-pi/)
- * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) | [webui](https://github.com/koniu/recoll-webui)
+ * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) - [webui](https://github.com/koniu/recoll-webui)
+ * [Thermal Printer](https://github.com/thefloe1/Raspi-Thermal-Printer) - [site](http://pikiosk.tumblr.com/post/38866317521/printing-with-raspberry)
+ * [Thermal Printer Python](https://github.com/luopio/py-thermal-printer) - [site](https://smittytone.wordpress.com/2013/09/23/hacking-a-thermal-till-printer-to-work-with-the-raspberry-pi/)
+ * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) - [webui](https://github.com/koniu/recoll-webui)
  * [SMS Proxy Server](https://www.howtoforge.com/tutorial/how-to-install-raspberry-pi-sms-server/)
  * [Wordpress Backup Server](http://wpress.io/building-own-backup-server-with-raspberry-pi/)
 
@@ -103,7 +103,7 @@ Curated list of projects with raspberry pi on whole www
  * [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) RaspberryPI based Baby Monitor
  * [Home Automation with NodeJS](https://github.com/anders94/raspberry-pi-home-automation)
  * [Mycroft AI](https://github.com/MycroftAI/enclosure-picroft) text to speech AI
- * [YANA server](https://github.com/ldleman/yana-server) | [site](https://hackaday.io/project/465-raspbox-home-automation-cloud)
+ * [YANA server](https://github.com/ldleman/yana-server) - [site](https://hackaday.io/project/465-raspbox-home-automation-cloud)
  * [Raspberry Weather Station](http://hukuzatuna.ddns.net/raspberry_pi/2015/08/22/weatherpi.html)
  * [Raspberry 2 Weather Station](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-weather-station-raspberry-pi/)
  * [rpiscale](https://github.com/iomihai/rpiscale) - Raspberry Pi connected Wii Balance Board sends weight to Google Docs spreadsheet
@@ -116,7 +116,7 @@ Curated list of projects with raspberry pi on whole www
  * [HardPass](https://github.com/girst/hardpass-passwordmanager) HardPass Password Manager OLED
  * [LoRasPi](https://github.com/hallard/LoRasPI) Raspberry PI Lora Gateway/Node for HopeRF RFM95 RFM96 RFM98 Modules
  * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
- * [PIfm](https://github.com/rm-hull/pifm) Turn your Raspberry Pi to Radio | [GUI](https://github.com/lucky-sideburn/piratepiwave)
+ * [PIfm](https://github.com/rm-hull/pifm) Turn your Raspberry Pi to Radio - [GUI](https://github.com/lucky-sideburn/piratepiwave)
  * [PiZero TFT Adapter](https://github.com/solon/pi-zero-tft-adapter) Pi Zero 2" TFT Adapter
 
 ## energy
@@ -129,13 +129,13 @@ Curated list of projects with raspberry pi on whole www
 ## security
  * [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
  * [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
- * [MotionPie](https://github.com/ccrisan/motionpie) | [site](http://pimylifeup.com/raspberry-pi-security-camera/)
+ * [MotionPie](https://github.com/ccrisan/motionpie) - [site](http://pimylifeup.com/raspberry-pi-security-camera/)
  * [Raspberry PI-TIMOLO: PI-TImelapse, MOtion, LOwLight](https://github.com/pageauc/pi-timolo)
  * [PI-TIMOLO Detector](https://github.com/af001/pi-detector)
  * [P4wnP1](https://github.com/mame82/P4wnP1) P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
- * [PasswordStore](https://github.com/girst/hardpass) | [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
- * [SecurityCam](https://github.com/pubnub/SecurityCam) | cam+pir
- * [Security Cam with OpenCV](https://github.com/HackerHouseYT/Smart-Security-Camera) | [video](https://www.youtube.com/watch?v=Y2QFu-tTvTI)
+ * [PasswordStore](https://github.com/girst/hardpass) - [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
+ * [SecurityCam](https://github.com/pubnub/SecurityCam) - cam+pir
+ * [Security Cam with OpenCV](https://github.com/HackerHouseYT/Smart-Security-Camera) - [video](https://www.youtube.com/watch?v=Y2QFu-tTvTI)
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
  * [SecPi](https://github.com/SecPi/SecPi) Home Alarm System
@@ -143,7 +143,7 @@ Curated list of projects with raspberry pi on whole www
 
 ## robotic
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
- * [piArm](https://github.com/RorschachUK/meArmPi) | [site](https://hackaday.io/project/181-mearm-your-robot)
+ * [piArm](https://github.com/RorschachUK/meArmPi) - [site](https://hackaday.io/project/181-mearm-your-robot)
 
 ## utils
  * WhereIsMyPy - tool for discovery RaspPi in your lan - [Shell](https://github.com/blackout314/WhereIsMyPI) - [Go](https://github.com/dlion/WhereIsMyPi) - [Javascript](https://github.com/roccomuso/WhereIsMyPi) - [C](https://github.com/fabiorico/WhereIsMyPI) - [Python](https://github.com/Zumium/whereismypi) - [Java](https://github.com/nmaas87/whereismypi)
