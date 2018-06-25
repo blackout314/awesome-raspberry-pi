@@ -5,6 +5,7 @@ SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 
 function doCompile {
+    echo 'DoCompile'
     JEKYLL_ENV=production bundle exec jekyll build -d out/
 }
 
