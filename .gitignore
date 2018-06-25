@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+bower_components
+deploy_key
+deploy_key.pub
