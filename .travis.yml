@@ -8,6 +8,7 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - COMMIT_AUTHOR_EMAIL: me@carlodenaro.com
+  - ENCRYPTION_LABEL: f46ff340618d
 sudo: false
 cache: bundler
 notifications:
