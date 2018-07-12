@@ -2,7 +2,7 @@
 
 ![logo](http://cdn.makeuseof.com/wp-content/uploads/2012/02/raspberry_pi_logo.png?6f25c7)
 
-Curated list of projects with raspberry pi on whole www
+Curated list of projects with raspberry pi on whole www (!only github)
 
 **Table Of Contents**
 - [cryptos](#cryptos)
