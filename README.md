@@ -94,6 +94,9 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [Simple Document Management](https://github.com/JuXReal/SimpleDocumentManagement) - [webui](https://github.com/koniu/recoll-webui)
  * [SMS Proxy Server](https://www.howtoforge.com/tutorial/how-to-install-raspberry-pi-sms-server/)
  * [Wordpress Backup Server](http://wpress.io/building-own-backup-server-with-raspberry-pi/)
+ * USB GADGET
+ ** [usb-gadget scripts]https://github.com/thagrol/usb-gadget)
+ ** [wiki and setup](https://github.com/callahanp/raspberrypi-zero-usb-ssh-internet/wiki/An-overview)
 
 ## domotic
  * [A RPI appliance Monitor with Python](https://github.com/Shmoopty/rpi-appliance-monitor)
