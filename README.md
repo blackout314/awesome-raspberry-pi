@@ -121,6 +121,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
  * [PIfm](https://github.com/rm-hull/pifm) Turn your Raspberry Pi to Radio - [GUI](https://github.com/lucky-sideburn/piratepiwave)
  * [PiZero TFT Adapter](https://github.com/solon/pi-zero-tft-adapter) Pi Zero 2" TFT Adapter
+ * [Pi GPIO Example](https://github.com/lasandell/RaspberryPi) and [Blog article](https://luketopia.net/2013/07/28/raspberry-pi-gpio-via-the-shell/) [archive.is copy](http://archive.is/IUBAm)
 
 ## energy
  * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
