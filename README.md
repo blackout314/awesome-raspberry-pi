@@ -145,6 +145,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [SecPi](https://github.com/SecPi/SecPi) Home Alarm System
  * [PiHole](https://github.com/pi-hole/pi-hole) Block AD server [Web Admin Panel](https://github.com/pi-hole/AdminLTE)
  * [pwn express](https://github.com/pwnieexpress/raspberry_pwn) pentesting stuffs
+ * [SkimScanner](https://github.com/photoresistor/raspi_skimscan/blob/master/raspi_skimscan.py) skim scanner
 
 ## robotic
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
