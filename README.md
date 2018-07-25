@@ -44,10 +44,13 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [Irrighino automatic plant feed](https://github.com/lucadentella/irrighino) - [site](http://www.lucadentella.it/en/2015/08/04/irrighino/)
  * [macro buttons box for smart home](http://www.instructables.com/id/Macro-Button-Box-for-the-Smart-Home/?ALLSTEPS)
  * [Noodle Bot](http://www.instructables.com/id/Noodle-a-crowdsourced-robot/)
- * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
  * [FHEM - home automation](http://fhem.de/fhem.html)
  * [Pi Pool Managment](https://github.com/rjsears/Pool_Fill_Control/)
  * [Pi Power](https://github.com/penguintutor/pi-power)
+ 
+### assistants
+ * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
+ * [Rhasspy-assistant](https://github.com/synesthesiam/rhasspy-assistant)
 
 ## home stuff
  * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
