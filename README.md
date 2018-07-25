@@ -98,7 +98,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [SMS Proxy Server](https://www.howtoforge.com/tutorial/how-to-install-raspberry-pi-sms-server/)
  * [Wordpress Backup Server](http://wpress.io/building-own-backup-server-with-raspberry-pi/)
  * USB GADGET
- ** [usb-gadget scripts]https://github.com/thagrol/usb-gadget)
+ ** [usb-gadget scripts](https://github.com/thagrol/usb-gadget)
  ** [wiki and setup](https://github.com/callahanp/raspberrypi-zero-usb-ssh-internet/wiki/An-overview)
 
 ## domotic
