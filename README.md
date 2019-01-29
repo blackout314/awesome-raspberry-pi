@@ -26,6 +26,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 
 ## cryptos
  * [Minera](https://github.com/getminera/minera)
+ * [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - [Video](https://youtu.be/tMMky09HyKA)
 
 ## 3d print
  * [dongle pi](https://github.com/N-O-D-E/Dongle) [video](https://www.youtube.com/watch?v=5wva14j74LQ)
