@@ -5,28 +5,25 @@
 Curated list of projects with raspberry pi on whole www (!only github)
 
 **Table Of Contents**
-- [cryptos](#cryptos)
 - [3d print](#3d-print)
 - [android](#android)
 - [automation](#automation)
-- [home stuffs](#home-stuffs)
+- [cryptos](#cryptos)
 - [cluster](#cluster)
 - [computer stuffs](#computer-stuffs)
 - [domotic](#domotic)
 - [electronic](#electronic)
 - [energy](#energy)
 - [examples](#examples)
+- [home stuffs](#home-stuffs)
+- [monitoring](#monitoring)
 - [security](#security)
+- [resources](#resources)
+- [replacement](#replacement)
 - [robotic](#robotic)
 - [utils](#utils)
-- [resources](#resources)
 - [user groups](#user-groups)
 - [wearable](#wearable)
-- [REPLACEMENT](#replacement)
-
-## cryptos
- * [Minera](https://github.com/getminera/minera)
- * [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - [Video](https://youtu.be/tMMky09HyKA)
 
 ## 3d print
  * [dongle pi](https://github.com/N-O-D-E/Dongle) [video](https://www.youtube.com/watch?v=5wva14j74LQ)
@@ -53,10 +50,10 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
  * [Rhasspy-assistant](https://github.com/synesthesiam/rhasspy-assistant)
 
-## home stuff
- * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
- * [Lumos - Smart Lamp for Better Sleep](https://github.com/jonathanrjpereira/Lumos)
-
+## cryptos
+ * [Minera](https://github.com/getminera/minera)
+ * [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - [Video](https://youtu.be/tMMky09HyKA)
+ 
 ## clusters
  * **Beowulf**
   * [Build your own supercomputer out of Raspberry Pi boards](http://www.zdnet.com/article/build-your-own-supercomputer-out-of-raspberry-pi-boards/)
@@ -79,7 +76,6 @@ Curated list of projects with raspberry pi on whole www (!only github)
   * ★[Build a Compact 4 Node Raspberry Pi Cluster](http://makezine.com/projects/build-a-compact-4-node-raspberry-pi-cluster/)
   * [Pi Spark supercomputer cluster](https://www.raspberrypi.org/magpi/pi-spark-supercomputer/)
   * [Raspberry PI 2 Cluster Case](https://pocketcluster.wordpress.com/2015/07/23/raspberry-pi-2-cluster-case-pt2/)
-
 
 ## computer stuffs
  * [Raspberry Auto Flickr Uploader](https://github.com/drcursor/flickrup) - [article](http://lifehacker.com/build-your-own-flickr-automatic-uploader-with-a-raspber-1781891730)
@@ -135,6 +131,13 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [Raspberry Pi code by Simon Monk for the book Programming Raspberry Pi: Getting Started with Python](https://github.com/simonmonk/monk_raspberrypi)
  * [The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk](https://github.com/simonmonk/raspberrypi_cookbook)
 
+## home stuff
+ * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
+ * [Lumos - Smart Lamp for Better Sleep](https://github.com/jonathanrjpereira/Lumos)
+
+## monitoring ##
+ * [raspcontrol](https://gitlab.com/blackout314/rctrl)
+
 ## security
  * [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
  * [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
@@ -152,6 +155,14 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [pwn express](https://github.com/pwnieexpress/raspberry_pwn) pentesting stuffs
  * [SkimScanner](https://github.com/photoresistor/raspi_skimscan/blob/master/raspi_skimscan.py) skim scanner
 
+## resources
+where to discover new articles, tools, libraries etc related to raspberry pi
+ * [Pi Weekly](http://piweekly.net/)
+ * [RasPi Weekly](http://www.raspiweekly.com/)
+ 
+## replacement
+ * [SeaFile for RPI](https://github.com/haiwen/seafile-rpi)
+
 ## robotic
  * [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
  * [piArm](https://github.com/RorschachUK/meArmPi) - [site](https://hackaday.io/project/181-mearm-your-robot)
@@ -163,19 +174,13 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [PiProcess Dashboard](https://github.com/initialstate/pi-process-dashboard) -  How to remotely monitor your Raspberry Pi processes
  * [WiringPi](https://github.com/WiringPi/WiringPi)
 
-## resources
-where to discover new articles, tools, libraries etc related to raspberry pi
- * [Pi Weekly](http://piweekly.net/)
- * [RasPi Weekly](http://www.raspiweekly.com/)
-
 ## user groups
  * [Swiss Raspberry Pi Users Club](http://swissraspberry.ch/)
 
 ## wearable
  * [Raspberry Pi Timelapse Camera](https://github.com/Manoj-nathwani/raspberry-pi-timelapse-camera)
  
-## replacement
- * [SeaFile for RPI](https://github.com/haiwen/seafile-rpi)
+
 
 # Books:
 1. [Raspberry Pi User Guide](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118921666.html) by the creator Eben Upton
