@@ -122,6 +122,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [LoRasPi](https://github.com/hallard/LoRasPI) Raspberry PI Lora Gateway/Node for HopeRF RFM95 RFM96 RFM98 Modules
  * [PicoReflow](https://github.com/apollo-ng/picoReflow) Controlled Reflow Oven
  * [PIfm](https://github.com/rm-hull/pifm) Turn your Raspberry Pi to Radio - [GUI](https://github.com/lucky-sideburn/piratepiwave)
+ * [PiPhone](http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/)
  * [PiZero TFT Adapter](https://github.com/solon/pi-zero-tft-adapter) Pi Zero 2" TFT Adapter
  * [Pi GPIO Example](https://github.com/lasandell/RaspberryPi) and [Blog article](https://luketopia.net/2013/07/28/raspberry-pi-gpio-via-the-shell/) [archive.is copy](http://archive.is/IUBAm)
 
