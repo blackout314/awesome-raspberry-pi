@@ -102,6 +102,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 ## domotic
  * [A RPI appliance Monitor with Python](https://github.com/Shmoopty/rpi-appliance-monitor)
  * [A Raspberry Pi-powered smart thermostat written in Python and PHP](https://github.com/Willseph/RaspberryPiThermostat)
+ * [Custom Command for Google Assistant](https://electronicsforu.com/electronics-projects/multi-language-voice-control-iot-home-automation-system-using-google-assistant-and-raspberry-pi)
  * [Damp Pi shower room moisture extraction with Raspberry pi](http://www.davidhunt.ie/damp-pi-shower-room-moisture-extraction-with-raspberry-pi/)
  * [DIY Philips HUE](http://souliss.github.io/media/diy-your-philips-hue-led-bulb/) #__arduino__
  * [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) RaspberryPI based Baby Monitor
@@ -147,6 +148,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [P4wnP1](https://github.com/mame82/P4wnP1) P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
  * [PasswordStore](https://github.com/girst/hardpass) - [site](https://hackaday.io/project/9564-rpi-zero-wifi-enabled-hardware-password-manager)
  * [SecurityCam](https://github.com/pubnub/SecurityCam) - cam+pir
+ * [SurveillanceCam](https://electronicsforu.com/electronics-projects/make-video-streaming-camera-with-raspberry-pi) 
  * [Security Cam with OpenCV](https://github.com/HackerHouseYT/Smart-Security-Camera) - [video](https://www.youtube.com/watch?v=Y2QFu-tTvTI)
  * [Streaming a Raspberry Pi Camera Into VR With JavaScript](http://www.sitepoint.com/streaming-a-raspberry-pi-camera-into-vr-with-javascript/)
  * [Raspberry Pi Security System](https://github.com/FutureSharks/rpi-security)
