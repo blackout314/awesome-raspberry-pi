@@ -128,6 +128,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 
 ## energy
  * [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
+ * [Reduce power consumption](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 
 ## examples
  * [Raspberry Pi code by Simon Monk for the book Programming Raspberry Pi: Getting Started with Python](https://github.com/simonmonk/monk_raspberrypi)
