@@ -15,6 +15,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 - [electronic](#electronic)
 - [energy](#energy)
 - [examples](#examples)
+- [gadget](#gadget)
 - [home stuffs](#home-stuffs)
 - [monitoring](#monitoring)
 - [security](#security)
@@ -133,6 +134,9 @@ Curated list of projects with raspberry pi on whole www (!only github)
 ## examples
  * [Raspberry Pi code by Simon Monk for the book Programming Raspberry Pi: Getting Started with Python](https://github.com/simonmonk/monk_raspberrypi)
  * [The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk](https://github.com/simonmonk/raspberrypi_cookbook)
+
+## gadget
+ * [harry potter newspaper](https://www.hackster.io/whitney-knitter/harry-potter-newspaper-powered-by-raspberry-pi-zero-3927f8)
 
 ## home stuff
  * [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
