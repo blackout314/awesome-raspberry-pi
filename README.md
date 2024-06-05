@@ -33,6 +33,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 
 ## android
  * [Control your raspberry pi from your android phone](https://github.com/LorenzoRogai/RaspberryRemoteControl)
+ * [PiGo - Effortlessly explore and manage multiple Pi servers on the go](https://github.com/gajjartejas/PiGo)
 
 ## automation
  * [AI home](https://github.com/the-raspberry-pi-guy/Artificial-Intelligence-Pi) - [video](https://www.youtube.com/watch?v=tcI8ibjUOzg)
