@@ -115,6 +115,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [Temperature and Humidity Logger](https://github.com/guibom/ESPTempLogger) #__arduino__
  * [Timelapse-Zero](https://github.com/bschwind/timelapse-zero) - Timelapse with RaspPi Zero 
  * [Solar Powered Weather Station](https://github.com/masneyb/weather-station)
+ * [Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 
 ## electronic
  * [FMberry](https://github.com/Manawyrm/FMBerry)
