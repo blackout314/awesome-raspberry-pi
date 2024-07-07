@@ -144,6 +144,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 
 ## monitoring ##
  * [raspcontrol](https://gitlab.com/blackout314/rctrl)
+ * [RPi Monitor Dahboard](https://github.com/nekromoff/rpi-monitor-dashboard)
 
 ## security
  * [EXT] [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
