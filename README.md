@@ -116,6 +116,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [Timelapse-Zero](https://github.com/bschwind/timelapse-zero) - Timelapse with RaspPi Zero 
  * [Solar Powered Weather Station](https://github.com/masneyb/weather-station)
  * [Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
+ * [EXT] [Track air quality with Raspberry PI](https://www.raspberrypi.com/news/track-air-quality-anywhere-with-raspberry-pi/)
 
 ## electronic
  * [FMberry](https://github.com/Manawyrm/FMBerry)
@@ -126,6 +127,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [EXT] [PiPhone](http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/)
  * [PiZero TFT Adapter](https://github.com/solon/pi-zero-tft-adapter) Pi Zero 2" TFT Adapter
  * [Pi GPIO Example](https://github.com/lasandell/RaspberryPi) and [Blog article](https://luketopia.net/2013/07/28/raspberry-pi-gpio-via-the-shell/) [archive.is copy](http://archive.is/IUBAm)
+ * [EXT] [Raspberry PI handheld](https://www.xda-developers.com/raspberry-pi-console-altoids-tin/)
 
 ## energy
  * [EXT] [Raspberry Pi Solar Tracker](http://www.polyideas.com/blog/2015/8/18/raspberry-pi-solar-tracker)
