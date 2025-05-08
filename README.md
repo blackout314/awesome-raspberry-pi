@@ -18,10 +18,11 @@ Curated list of projects with raspberry pi on whole www (!only github)
 - [gadget](#gadget)
 - [home stuffs](#home-stuffs)
 - [monitoring](#monitoring)
-- [security](#security)
 - [resources](#resources)
 - [replacement](#replacement)
 - [robotic](#robotic)
+- [security](#security)
+- [self-hosting](#selfhost)
 - [utils](#utils)
 - [user groups](#user-groups)
 - [wearable](#wearable)
@@ -147,6 +148,18 @@ Curated list of projects with raspberry pi on whole www (!only github)
 ## monitoring ##
  * [raspcontrol](https://gitlab.com/blackout314/rctrl)
 
+## resources
+where to discover new articles, tools, libraries etc related to raspberry pi
+ * [EXT] [Pi Weekly](http://piweekly.net/)
+ * [EXT] [RasPi Weekly](http://www.raspiweekly.com/)
+ 
+## replacement
+ * [SeaFile for RPI](https://github.com/haiwen/seafile-rpi)
+
+## robotic
+ * [EXT] [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
+ * [piArm](https://github.com/RorschachUK/meArmPi) - [site](https://hackaday.io/project/181-mearm-your-robot)
+
 ## security
  * [EXT] [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
  * [EXT] [Internet Enabled DSC Home Security System](http://www.instructables.com/id/Ethernet-Enabled-DSC-Home-Security-System/?ALLSTEPS)
@@ -165,17 +178,13 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [pwn express](https://github.com/pwnieexpress/raspberry_pwn) pentesting stuffs
  * [SkimScanner](https://github.com/photoresistor/raspi_skimscan/blob/master/raspi_skimscan.py) skim scanner
 
-## resources
-where to discover new articles, tools, libraries etc related to raspberry pi
- * [EXT] [Pi Weekly](http://piweekly.net/)
- * [EXT] [RasPi Weekly](http://www.raspiweekly.com/)
- 
-## replacement
- * [SeaFile for RPI](https://github.com/haiwen/seafile-rpi)
-
-## robotic
- * [EXT] [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
- * [piArm](https://github.com/RorschachUK/meArmPi) - [site](https://hackaday.io/project/181-mearm-your-robot)
+## self hosting os
+ * [casaOS](https://github.com/IceWhaleTech/CasaOS)
+ * [umbrel](https://github.com/getumbrel/umbrel)
+ * [](https://github.com/YunoHost/yunohost)
+### dev
+ * [homelab](https://github.com/khuedoan/homelab)
+ * [onedev](https://github.com/theonedev/onedev)
 
 ## utils
  * WhereIsMyPy - tool for discovery RaspPi in your lan - [Shell](https://github.com/blackout314/WhereIsMyPI) - [Go](https://github.com/dlion/WhereIsMyPi) - [Javascript](https://github.com/roccomuso/WhereIsMyPi) - [C](https://github.com/fabiorico/WhereIsMyPI) - [Python](https://github.com/Zumium/whereismypi) - [Java](https://github.com/nmaas87/whereismypi)
