@@ -22,7 +22,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 - [replacement](#replacement)
 - [robotic](#robotic)
 - [security](#security)
-- [self-hosting](#selfhost)
+- [self-hosting](#self-hosting)
 - [utils](#utils)
 - [user groups](#user-groups)
 - [wearable](#wearable)
@@ -145,7 +145,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [EXT] [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
  * [Lumos - Smart Lamp for Better Sleep](https://github.com/jonathanrjpereira/Lumos)
 
-## monitoring ##
+## monitoring
  * [raspcontrol](https://gitlab.com/blackout314/rctrl)
 
 ## resources
@@ -178,7 +178,7 @@ where to discover new articles, tools, libraries etc related to raspberry pi
  * [pwn express](https://github.com/pwnieexpress/raspberry_pwn) pentesting stuffs
  * [SkimScanner](https://github.com/photoresistor/raspi_skimscan/blob/master/raspi_skimscan.py) skim scanner
 
-## self hosting os
+## self-hosting
  * [casaOS](https://github.com/IceWhaleTech/CasaOS)
  * [umbrel](https://github.com/getumbrel/umbrel)
  * [](https://github.com/YunoHost/yunohost)
