@@ -181,7 +181,7 @@ where to discover new articles, tools, libraries etc related to raspberry pi
 ## self-hosting
  * [casaOS](https://github.com/IceWhaleTech/CasaOS)
  * [umbrel](https://github.com/getumbrel/umbrel)
- * [](https://github.com/YunoHost/yunohost)
+ * [yunohost](https://github.com/YunoHost/yunohost)
 ### dev
  * [homelab](https://github.com/khuedoan/homelab)
  * [onedev](https://github.com/theonedev/onedev)
