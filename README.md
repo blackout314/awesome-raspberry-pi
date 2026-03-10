@@ -140,6 +140,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 
 ## gadget
  * [EXT] [harry potter newspaper](https://www.hackster.io/whitney-knitter/harry-potter-newspaper-powered-by-raspberry-pi-zero-3927f8)
+ * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Turn any HDMI display into a self-updating Wi-Fi voucher kiosk with live weather, powered by Raspberry Pi
 
 ## home stuff
  * [EXT] [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
@@ -197,6 +198,7 @@ where to discover new articles, tools, libraries etc related to raspberry pi
  * [EXT] [Swiss Raspberry Pi Users Club](http://swissraspberry.ch/)
 
 ## wearable
+ * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable e-ink smartwatch that generates Wi-Fi voucher codes on demand via Raspberry Pi Zero
  * [Raspberry Pi Timelapse Camera](https://github.com/Manoj-nathwani/raspberry-pi-timelapse-camera)
  
 
