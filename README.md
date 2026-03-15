@@ -46,7 +46,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
  * [EXT] [FHEM - home automation](http://fhem.de/fhem.html)
  * [Pi Pool Managment](https://github.com/rjsears/Pool_Fill_Control/)
  * [Pi Power](https://github.com/penguintutor/pi-power)
- 
+ * [openLight - Tiny AI agent runtime for Raspberry Pi combining deterministic skills and LLM routing](https://github.com/evgenii-engineer/openLight)
 ### assistants
  * [Raspberry Pi + Alexa Voice Service](https://github.com/amzn/alexa-avs-raspberry-pi)
  * [Rhasspy-assistant](https://github.com/synesthesiam/rhasspy-assistant)
