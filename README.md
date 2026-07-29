@@ -160,6 +160,7 @@ where to discover new articles, tools, libraries etc related to raspberry pi
 ## robotic
  * [EXT] [low cost raspberry pi robot with computer vision](https://jblkacademic.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision/)
  * [piArm](https://github.com/RorschachUK/meArmPi) - [site](https://hackaday.io/project/181-mearm-your-robot)
+ * [RasRobot 4WD TB6612FNG checklist](https://github.com/willoc2023/rasrobot-tb6612fng-4wd) - Practical Raspberry Pi motor-driver checklist with wiring, common-ground, standby-pin and staged motor tests.
 
 ## security
  * [EXT] [CircClean](https://www.circl.lu/projects/CIRCLean/) clean your usbkey
