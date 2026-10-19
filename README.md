@@ -141,6 +141,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 ## gadget
  * [EXT] [harry potter newspaper](https://www.hackster.io/whitney-knitter/harry-potter-newspaper-powered-by-raspberry-pi-zero-3927f8)
  * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Turn any HDMI display into a self-updating Wi-Fi voucher kiosk with live weather, powered by Raspberry Pi.
+ * [Coffee Edition](https://github.com/ierolsen/coffee-edition-kit) - A newspaper that prints itself every morning: a Claude Code routine writes it overnight, GitHub Actions checks every page, and a Raspberry Pi Pico W pulls the job over HTTPS and sends it to a network printer over IPP.
 
 ## home stuff
  * [EXT] [ScrapPi - Upcycled Media Hub](http://www.instructables.com/id/ScrapPi-Upcycled-Media-Hub/?ALLSTEPS)
