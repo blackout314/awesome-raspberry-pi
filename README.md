@@ -150,6 +150,7 @@ Curated list of projects with raspberry pi on whole www (!only github)
 ## monitoring
  * [raspcontrol](https://gitlab.com/blackout314/rctrl)
  * [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring (HTTP, DNS, TCP, ping, TLS, databases, heartbeats) with status pages. Runs on a Pi as a linux/arm64 Docker image or binary, SQLite by default.
+ * [Voltrus SCADA](https://github.com/VoltrusID/voltrus-scada) - Self-hosted SCADA and industrial monitoring (Modbus TCP, OPC UA, S7, BACnet/IP) with dashboards, alarms and an SQLite historian. Runs on a Pi as a prebuilt linux/aarch64 binary.
 
 ## resources
 where to discover new articles, tools, libraries etc related to raspberry pi
